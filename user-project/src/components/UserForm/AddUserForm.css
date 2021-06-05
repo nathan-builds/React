@@ -1,0 +1,12 @@
+.add_user_form {
+  border-radius: 25px;
+  background: grey;
+  padding: 10px;
+  width: 250px;
+  height: 100px;
+  position: relative;
+}
+
+.add_user_form label {
+  font-family: cursive;
+}
